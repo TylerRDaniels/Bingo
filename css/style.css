@@ -64,6 +64,17 @@ body {
     width: 30vw;
 }
 
+@media (max-width: 500px) {
+
+    .card-body{ 
+        height: 80vw;
+        width: 80vw;
+
+    }
+}
+
+
+
 .col-header {
     height: calc(100% / 6);
     width: calc(100% / 5);
